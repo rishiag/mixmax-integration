@@ -12,8 +12,18 @@
   },
   "author": "Rishi Agarwal",
   "license": "ISC",
+  "engine": "node 0.12.7",
   "bugs": {
     "url": "https://github.com/rishiag/mixmax-integration/issues"
   },
-  "homepage": "https://github.com/rishiag/mixmax-integration#readme"
+  "homepage": "https://github.com/rishiag/mixmax-integration#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "compression": "^1.6.1",
+    "errorhandler": "^1.4.3",
+    "express": "^4.13.4",
+    "method-override": "^2.3.5",
+    "morgan": "^1.7.0",
+    "serve-favicon": "^2.3.0"
+  }
 }
