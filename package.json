@@ -1,0 +1,19 @@
+{
+  "name": "mixmax-integration",
+  "version": "1.0.0",
+  "description": "Mixmax SDK Integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishiag/mixmax-integration.git"
+  },
+  "author": "Rishi Agarwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rishiag/mixmax-integration/issues"
+  },
+  "homepage": "https://github.com/rishiag/mixmax-integration#readme"
+}
