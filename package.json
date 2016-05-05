@@ -19,11 +19,14 @@
   "homepage": "https://github.com/rishiag/mixmax-integration#readme",
   "dependencies": {
     "body-parser": "^1.15.0",
+    "clearbit": "^1.2.1",
     "compression": "^1.6.1",
+    "cors": "^2.7.1",
     "errorhandler": "^1.4.3",
     "express": "^4.13.4",
     "method-override": "^2.3.5",
     "morgan": "^1.7.0",
-    "serve-favicon": "^2.3.0"
+    "serve-favicon": "^2.3.0",
+    "validator": "^5.2.0"
   }
 }
