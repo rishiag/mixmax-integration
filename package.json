@@ -24,7 +24,6 @@
     "cors": "^2.7.1",
     "errorhandler": "^1.4.3",
     "express": "^4.13.4",
-    "method-override": "^2.3.5",
     "morgan": "^1.7.0",
     "serve-favicon": "^2.3.0",
     "validator": "^5.2.0"

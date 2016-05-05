@@ -1,11 +1,8 @@
 'use strict';
 
 var express = require('express');
-var bodyParser = require('body-parser');
 var app = express();
 var cors = require('cors');
-
-app.use(bodyParser.urlencoded());
 
 var corsOptions = {
   origin: /^[^.\s]+\.mixmax\.com$/,

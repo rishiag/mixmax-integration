@@ -1,3 +1,5 @@
+'use strict';
+
 var settings = require('./config/settings');
 
 (function () {

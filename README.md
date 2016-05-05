@@ -6,7 +6,7 @@ This is an open source Mixmax LookUp Command.
 
 1. Use Node Version 0.12.7
 2. Install using `npm install`
-2. Run using `npm start`
+2. Run using `node index.js`
 
 ## Verify
 Verify it is working by visiting ```http://localhost:8080/api/clearbit/typeahead?text=rishi``` and ```http://localhost:8080/api/clearbit/resolver?text=rishi@srvs.co``` in your browser.
