@@ -16,8 +16,8 @@ Visit your Mixmax dashboard. Click on `Integrations` on left hand side, then cli
   - **Name** - Look Up
   - **Command** - lookup
   - **Parameter placeholder** - [Email Address]
-  - **Typeahead API URL** -  ```http://localhost:8080/api/clearbit/typeahead?text=rishi```
-  - **Resolver API URL** - ```http://localhost:8080/api/clearbit/resolver?text=rishi@srvs.co```
+  - **Typeahead API URL** -  ```http://localhost:8080/api/clearbit/typeahead```
+  - **Resolver API URL** - ```http://localhost:8080/api/clearbit/resolver```
 
 ## Example
 
