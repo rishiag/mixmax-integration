@@ -2,6 +2,9 @@
 
 This is an open source Mixmax LookUp Command.
 
+## Clearbit Key
+Go to config->settings.js and replace the dummy Clearbit key with a valid key.
+
 ## Running locally
 
 1. Use Node Version 0.12.7
